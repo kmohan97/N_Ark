@@ -1,0 +1,37 @@
+.bullets {
+    background-color: 'red';
+}
+
+  .swiper {
+    width: 100%;
+    max-height: min-content;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+    border-width: 5;
+  }
+
+  .swiper-pagination-bullet {
+    color:green;
+  }
+
+  .mySwiper {
+    object-fit: fill;
+  }
+
+  .mySwiper img {
+    max-height: 99.9%;
+    object-fit: fill;
+  }
+
+  .img-conatiner {
+      height: 400px;
+  }
+
+  .textContainer {
+    position: absolute;
+  }
