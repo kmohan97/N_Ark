@@ -1,4 +1,4 @@
-# [N_Ark Design Studio]([url](https://narkdesignstudio.in/))
+# N_Ark Design Studio
 
 <img width="1318" alt="Screenshot 2024-03-30 at 10 12 08 PM" src="https://github.com/kmohan97/N_Ark/assets/29454998/ba3eace6-9302-4e2c-b169-57dbd0025473">
 
